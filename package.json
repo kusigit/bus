@@ -1,13 +1,6 @@
 {
-  "name": "omnimanager",
-  "version": "0.0.2",
-  "description": "OmniManager",
-  "author": "Markus Fürer",
-  "license": "ISC",
-  "repository": {
-    "type": "git",
-    "url": "github:kusigit/omnimanager"
-  },
+  "name": "bus",
+  "version": "0.0.1",
   "scripts": {
     "start": "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
